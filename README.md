@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Nattanan Petchsuk
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### 🌟 About Me
 
 I'm a third-year student at the School of Information Technology, majoring in Software Engineering at Mae Fah Luang University in Chiang Rai, Thailand. I am passionate about developing software solutions and continually improving my skills in various programming languages and technologies.
