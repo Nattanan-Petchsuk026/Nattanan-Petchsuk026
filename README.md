@@ -35,11 +35,11 @@ I'm a third-year student at the School of Information Technology, majoring in So
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
 </p>
 
-#### Databases
-
+#### Database
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
 </p>
 
 #### Tools and Platforms
