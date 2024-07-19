@@ -71,7 +71,6 @@ I'm a third-year student at the School of Information Technology, major in Softw
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
   <img src="https://img.icons8.com/officel/48/000000/eclipse.png" alt="Eclipse" title="Eclipse"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/color/48/000000/firefox.png" alt="Firefox" title="Firefox"/>
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio"/>
 </p>
 
