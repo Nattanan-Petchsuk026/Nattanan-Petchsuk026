@@ -46,7 +46,7 @@ I'm a third-year student at the School of Information Technology, majoring in So
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Cloud Services" title="Cloud Services"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" title="Google Cloud"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma"/>
   <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" title="Stripe"/>
@@ -64,4 +64,4 @@ I'm a third-year student at the School of Information Technology, majoring in So
 
 ### 📫 Contact
 
-- **Email**: [petchsuknattanan@gmail.com](mailto:petchsuknattanan@gmail.
+- **Email**: [petchsuknattanan@gmail.com](mailto:petchsuknattanan@gmail.com)
