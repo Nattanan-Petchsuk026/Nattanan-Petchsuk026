@@ -4,6 +4,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+ <div id="badges" align="center">
+            <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tang-kwa-a745a431a/)" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            </a>
+            <a href="[https://medium.com/@yourprofile](https://medium.com/@6531503026)" target="_blank">
+                <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+            </a>
+        </div>
+
 ### 🌟 About Me
 
 I'm a third-year student at the School of Information Technology, major in Software Engineering at Mae Fah Luang University in Chiang Rai, Thailand. I am passionate about developing software solutions and continually improving my skills in various programming languages and technologies.
