@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 
-I'm a third-year student at the School of Information Technology, majoring in Software Engineering at Mae Fah Luang University in Chiang Rai, Thailand. I am passionate about developing software solutions and continually improving my skills in various programming languages and technologies.
+I'm a third-year student at the School of Information Technology, major in Software Engineering at Mae Fah Luang University in Chiang Rai, Thailand. I am passionate about developing software solutions and continually improving my skills in various programming languages and technologies.
 
 ### 🎓 Education
 
@@ -39,7 +39,7 @@ I'm a third-year student at the School of Information Technology, majoring in So
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
 </p>
 
-#### Database
+#### Databases
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
