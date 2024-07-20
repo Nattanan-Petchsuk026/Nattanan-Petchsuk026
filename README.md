@@ -61,18 +61,8 @@ I'm a third-year student at the School of Information Technology, major in Softw
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" title="Google Cloud"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma"/>
-  <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" title="Stripe"/>
 </p>
 
-#### Development Tools
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
-  <img src="https://img.icons8.com/officel/48/000000/eclipse.png" alt="Eclipse" title="Eclipse"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio"/>
-</p>
 
 ### 📫 Contact
 
