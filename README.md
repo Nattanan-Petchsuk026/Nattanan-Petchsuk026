@@ -55,13 +55,13 @@ I'm a third-year student at the School of Information Technology, major in Softw
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
 </p>
 
-#### Tools and Platforms
+<!--#### Tools and Platforms
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" title="Google Cloud"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-</p>
+</p>-->
 
 
 ### 📫 Contact
