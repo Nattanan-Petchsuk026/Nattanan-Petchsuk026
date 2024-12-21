@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nattanan Petchsuk
+# Hello! I'm **Nattanan Petchsuk** (Tangkwa) 👩‍💻
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -15,16 +15,9 @@
 
 ### 🌟 About Me
 
-I'm a third-year student at the School of Information Technology, major in Software Engineering at Mae Fah Luang University in Chiang Rai, Thailand. I am passionate about developing software solutions and continually improving my skills in various programming languages and technologies.
+I'm a passionate and determined 3rd-year **Software Engineering** student at the Faculty of Applied Digital Technology, **Mae Fah Luang University** in Chiang Rai, Thailand. 
 
-### 🎓 Education
-
-- **University**: Mae Fah Luang University
-- **School**: School of Information Technology
-- **Major**: Software Engineering
-- **Year**: Third Year
-
-### 🚀 Skills
+## 💻 Skills & Technologies 🛠️
 
 #### Programming Languages
 
@@ -55,15 +48,35 @@ I'm a third-year student at the School of Information Technology, major in Softw
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
 </p>
 
-<!--#### Tools and Platforms
+## 🚀 Key Projects 🌟
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" title="Google Cloud"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-</p>-->
+### 1. **SOS Safeguard** - Empowering Users in Emergency Situations 🚨
+A mobile app that provides users with direct access to emergency services and real-time location sharing. The app was inspired by a personal experience when my mother struggled to find the <!--####right emergency contact during an accident. I wanted to create a tool that could make a difference in critical moments.
 
+- **Technologies Used**: Flutter, Dart, Firebase
+- **Highlights**: 
+  - Real-time location tracking for user safety 📍
+  - Direct emergency calls 📞 to save precious time
+  - Built both **back-end** and **front-end** solo 💪
 
-### 📫 Contact
+### 2. **MFU E-Commerce** - A Safe and Secure Marketplace for Students 🛍️
+A web platform to help students at my university buy and sell second-hand items with ease and security, addressing the limitations of informal Facebook groups. This platform aims to protect student transactions by verifying users within the university community.
+
+- **Technologies Used**: MERN Stack 🍃⚡💻🟩 (MongoDB, Express.js, React, Node.js)
+- **Highlights**: 
+  - **Back-end** developed entirely by me 🔧
+  - **Front-end** developed with 90% involvement 🎨
+  - Solved real problems for my peers at university 🎯
+
+## 🌱 What Drives Me 🚀
+I’m passionate about learning and continuously enhancing my skills to build impactful applications. I find joy in using technology to create solutions that not only work but make a difference. My curiosity drives me to dive into AI/ML, and I’m currently focusing on developing applications that can enhance user experiences through smart technology.
+
+## 📖 My Personal Philosophy 💡
+*"Challenges are not obstacles; they are opportunities for growth. Every failure is a lesson in disguise that brings us closer to mastery."*
+
+---
+
+💬 **Let’s Connect** 🔗
 
 - **Email**: [petchsuknattanan@gmail.com](mailto:petchsuknattanan@gmail.com)
+<!--####- **Portfolio**:-->
