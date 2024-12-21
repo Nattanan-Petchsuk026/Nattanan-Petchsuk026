@@ -64,9 +64,7 @@ A web platform to help students at my university buy and sell second-hand items 
 
 - **Technologies Used**: MERN Stack 🍃⚡💻🟩 (MongoDB, Express.js, React, Node.js)
 - **Highlights**: 
-  - **Back-end** developed entirely by me 🔧
-  - **Front-end** developed with 90% involvement 🎨
-  - Solved real problems for my peers at university 🎯
+- Built both **back-end** and **front-end** solo 💪
 
 ## 🌱 What Drives Me 🚀
 I’m passionate about learning and continuously enhancing my skills to build impactful applications. I find joy in using technology to create solutions that not only work but make a difference. My curiosity drives me to dive into AI/ML, and I’m currently focusing on developing applications that can enhance user experiences through smart technology.
