@@ -57,14 +57,14 @@ A mobile app that provides users with direct access to emergency services and re
 - **Highlights**: 
   - Real-time location tracking for user safety 📍
   - Direct emergency calls 📞 to save precious time
-  - Built both **back-end** and **front-end** solo 💪
+  - Built both **database** and **front-end**  💪
 
 ### 2. **MFU E-Commerce** - A Safe and Secure Marketplace for Students 🛍️
 A web platform to help students at my university buy and sell second-hand items with ease and security, addressing the limitations of informal Facebook groups. This platform aims to protect student transactions by verifying users within the university community.
 
 - **Technologies Used**: MERN Stack 🍃⚡💻🟩 (MongoDB, Express.js, React, Node.js)
 - **Highlights**: 
-  - Built both **back-end** and **front-end** solo 💪
+  - Built both **back-end** and **front-end**  💪
 
 ## 🌱 What Drives Me 🚀
 I’m passionate about learning and continuously enhancing my skills to build impactful applications. I find joy in using technology to create solutions that not only work but make a difference. My curiosity drives me to dive into AI/ML, and I’m currently focusing on developing applications that can enhance user experiences through smart technology.
