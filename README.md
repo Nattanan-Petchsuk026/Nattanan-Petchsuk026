@@ -51,7 +51,7 @@ I'm a passionate and determined 3rd-year **Software Engineering** student at the
 ## 🚀 Key Projects 🌟
 
 ### 1. **SOS Safeguard** - Empowering Users in Emergency Situations 🚨
-A mobile app that provides users with direct access to emergency services and real-time location sharing. The app was inspired by a personal experience when my mother struggled to find the <!--####right emergency contact during an accident. I wanted to create a tool that could make a difference in critical moments.
+A mobile app that provides users with direct access to emergency services and real-time location sharing. The app was inspired by a personal experience when my mother struggled to find the right emergency contact during an accident. I wanted to create a tool that could make a difference in critical moments.
 
 - **Technologies Used**: Flutter, Dart, Firebase
 - **Highlights**: 
